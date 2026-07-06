@@ -75,7 +75,7 @@ Food, Transport, Housing, Healthcare, Education, and Utilities.
 ![Chart 5](charts/chart5_2019_vs_2024.png)
 
 ### Power BI Interactive Dashboard
-![Dashboard](charts/dashboard_powerbi.png)
+![Dashboard](charts/dashboard_screenshot.png)
 
 ---
 

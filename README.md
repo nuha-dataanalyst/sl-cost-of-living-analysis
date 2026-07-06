@@ -74,6 +74,9 @@ Food, Transport, Housing, Healthcare, Education, and Utilities.
 ### 2019 vs 2024 Regional Comparison
 ![Chart 5](charts/chart5_2019_vs_2024.png)
 
+### Power BI Interactive Dashboard
+![Dashboard](charts/dashboard_powerbi.png)
+
 ---
 
 ## 💡 Insights & Recommendations
